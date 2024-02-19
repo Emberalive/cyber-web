@@ -1,0 +1,40 @@
+:root {
+    --background: #1a1a1a;
+    --primary: whitesmoke;
+}
+
+body {
+    background-color: var(--background);
+    font-family: "system-ui", sans-serif;
+    line-height: 20px;
+    color: var(--primary);
+}
+
+header {
+    background-color: var(--background);
+}
+
+header.banner {
+    color: whitesmoke;
+    text-align: center;
+    background-size: cover;
+    padding: 2%;
+}
+
+.banner-fluid{
+    width: 100%;
+    max-width: 1000px;
+}
+
+article {
+    padding: 1%;
+    margin: 3%;
+    background-color: var(--background);
+    border: solid 4px whitesmoke;
+}
+
+#wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
