@@ -38,3 +38,11 @@ article {
     margin: 0 auto;
     padding: 0 20px;
 }
+
+.lnk-txt > a {
+    color: whitesmoke;
+}
+
+.lnk-txt > a:hover {
+    text-shadow: white 0 0 10px;
+}
