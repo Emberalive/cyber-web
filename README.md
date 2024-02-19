@@ -7,6 +7,6 @@
 - River - [amossyriver](https://github.com/amossyriver)
 ---
 ![Licensed under GNU GPLv3 Public](https://www.gnu.org/graphics/gplv3-88x31.png)
-![blog.shr4pnel.com](https://blog.shr4pnel.com/buttons/blogbutton.gif)
+[![blog.shr4pnel.com](https://blog.shr4pnel.com/buttons/blogbutton.gif)](https://blog.shr4pnel.com)
 ![made on gnu linux](https://cyber.dabamos.de/88x31/gnu-linux.gif)
 ![gordon freeman](https://cyber.dabamos.de/88x31/hl.gif)
