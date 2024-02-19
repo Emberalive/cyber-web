@@ -33,14 +33,6 @@ article {
     border: solid 4px whitesmoke;
 }
 
-article > h1 {
-    text-align: center;
-}
-
-article > h1::after {
-    content: ":";
-}
-
 #wrapper {
     max-width: 1000px;
     margin: 0 auto;
@@ -53,4 +45,8 @@ article > h1::after {
 
 .lnk-txt > a:hover {
     text-shadow: white 0 0 10px;
+}
+
+.go-top {
+    color: var(--primary);
 }
