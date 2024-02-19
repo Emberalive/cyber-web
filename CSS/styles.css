@@ -47,6 +47,6 @@ article {
     text-shadow: white 0 0 10px;
 }
 
-.go-top {
+article > a {
     color: var(--primary);
 }
