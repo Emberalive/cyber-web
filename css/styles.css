@@ -33,16 +33,20 @@ article {
     border: solid 4px whitesmoke;
 }
 
-article > h1 {
-    text-align: center;
-}
-
-article > h1::after {
-    content: ":";
-}
-
 #wrapper {
     max-width: 1000px;
     margin: 0 auto;
     padding: 0 20px;
+}
+
+.lnk-txt > a {
+    color: whitesmoke;
+}
+
+.lnk-txt > a:hover {
+    text-shadow: white 0 0 10px;
+}
+
+article > a {
+    color: var(--primary);
 }
