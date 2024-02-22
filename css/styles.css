@@ -21,11 +21,6 @@ header.banner {
     padding: 2%;
 }
 
-.banner-fluid{
-    width: 100%;
-    max-width: 1000px;
-}
-
 article {
     padding: 1%;
     margin: 3%;
